@@ -1,0 +1,51 @@
+/* header */
+
+.photo.jpg
+{
+    background-attachment: fixed;
+}
+
+
+h1
+{
+	font-style : italic;
+	color: black ;
+}
+
+
+h2
+{
+	color:white;
+	background-color:orange;
+	width: 1000px;
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: black;
+    position: absolute;
+    right:20px;
+    top:20px
+}
+
+ul, li {
+    display: inline;
+    padding: 15px;
+    font-family: "Verdana", Optima ;
+}
+
+/* texte */
+
+.float
+{
+	float: right;
+}
+
+.float1
+{
+	float:left;
+}
